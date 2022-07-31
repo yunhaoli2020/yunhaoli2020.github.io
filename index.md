@@ -46,6 +46,20 @@ At Northwestern, I focus on structured light 3D imaging and its application on c
    PLOS ONE
    [[PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209227)]
 
+3. SkinScan: Low-Cost 3D-Scanning for Dermatologic Diagnosis and Documentation 
+   Merlin Nau, Florian Schiffers, Yunhao Li, Bingjie Xu, ..., Oliver Cossairt
+   2021 IEEE International Conference on Image Processing (ICIP)
+   [[PDF](https://arxiv.org/pdf/2102.00508.pdf)]
+   
+4. A Low-Cost Solution for 3D Reconstruction of Large-Scale Specular Objects 
+   Yunhao Li, Chia-Kai Yeh, Bingjie Xu, ..., Oliver Cossairt
+   Computational Optical Sensing and Imaging (COSI). Optical Society of America, 2021
+   [[PDF](https://3dim.northwestern.edu/YLi_COSI_2021.pdf)]
+
+5. Skinscan: 3D Dermatologic Diagnosis and Documentation with Commodity Devices
+   Merlin Nau, Florian Schiffers, Yunhao Li, Bingjie Xu, ..., Oliver Cossairt
+   2021 55th Asilomar Conference on Signals, Systems, and Computers
+   [[PDF](https://ieeexplore.ieee.org/abstract/document/9723389)]
 
 [CV](/CV-YunhaoLi.pdf)
 
