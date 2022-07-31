@@ -36,12 +36,12 @@ At Northwestern, I focus on structured light 3D imaging and its application on c
 
 
 ### Publications
-1. A Method of Solving the SFM Scale Factor Based on Monocular Camera and a Single Laser
-   Yunhao Li, Jifa Sun, Ying Wang, Xuetao Zhang
+1. A Method of Solving the SFM Scale Factor Based on Monocular Camera and a Single Laser\\
+   Yunhao Li, Jifa Sun, Ying Wang, Xuetao Zhang\\
    2017 Chinese Automation Congress (CAC)
    
-2. A Method of Partially Overlapping Point Clouds Registration Based on Differential Evolution Algorithm 
-   Xuetao Zhang, Ben Yang, Yunhao Li, Xuewei Wang, Wanxu Zhang,
+2. A Method of Partially Overlapping Point Clouds Registration Based on Differential Evolution Algorithm\\ 
+   Xuetao Zhang, Ben Yang, Yunhao Li, Xuewei Wang, Wanxu Zhang\\
    PLOS ONE
 
 
