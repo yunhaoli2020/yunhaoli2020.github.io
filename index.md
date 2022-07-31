@@ -39,5 +39,5 @@ At Northwestern, I focus on structured light 3D imaging and its application on c
 
 
 
-### CV
+[### CV](/DSC_2436_min4.jpg)
 
