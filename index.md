@@ -40,9 +40,11 @@ At Northwestern, I focus on structured light 3D imaging and its application on c
    Yunhao Li, Jifa Sun, Ying Wang, Xuetao Zhang<br>
    2017 Chinese Automation Congress (CAC)
    
+   
 2. A Method of Partially Overlapping Point Clouds Registration Based on Differential Evolution Algorithm<br> 
    Xuetao Zhang, Ben Yang, Yunhao Li, Xuewei Wang, Wanxu Zhang<br>
    PLOS ONE
+   [[PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209227)]
 
 
 [CV](/CV-YunhaoLi.pdf)
