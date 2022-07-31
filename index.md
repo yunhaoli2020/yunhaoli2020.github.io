@@ -10,7 +10,7 @@
       <p><b>2233 Tech Dr, Evanston, IL, USA</b></p>
     </td>
     <td width="25%">
-      <img src="/DSC_2436_min4.jpg" width="100%">      % 插入证件照代码
+      <img src="/DSC_2436_min4.jpg" width="100%">     
     </td>
   </tr>
 </table>
