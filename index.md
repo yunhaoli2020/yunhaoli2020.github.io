@@ -39,5 +39,6 @@ At Northwestern, I focus on structured light 3D imaging and its application on c
 
 
 
-[### CV](/CV-YunhaoLi.pdf)
+###[CV](/CV-YunhaoLi.pdf)
+###[中文简历](/CV-YunhaoLi_CHN.pdf)
 
