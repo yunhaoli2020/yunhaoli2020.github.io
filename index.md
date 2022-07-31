@@ -18,7 +18,7 @@
 
 I'm currently a PhD student in Computer Science at Westlake University (jointly with Zhejiang University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/).
 
-I earned my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China, and earned my Master's degree from Northwestern University at Evanston, IL
+I received my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China, and received my Master's degree from Northwestern University at Evanston, IL
 
 My current and past research focus on Computer Vision, Computational Photography, and robotics.
 
