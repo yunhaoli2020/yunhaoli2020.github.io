@@ -4,7 +4,7 @@ I'm currently a PhD student in Computer Science at Westlake University (jointly 
 
 I earned my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China, and earned my Master's degree from Northwestern University at Evanston, IL
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My current and past research focus on Computer Vision, Computational Photography, and robotics.
 
 ### Markdown
 
