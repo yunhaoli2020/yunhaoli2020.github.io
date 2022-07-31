@@ -37,7 +37,7 @@ At Northwestern, I focus on structured light 3D imaging and its application on c
 
 ### Publications
 1. A Method of Solving the SFM Scale Factor Based on Monocular Camera and a Single Laser<br>
-   <u>Yunhao Li<\u>, Jifa Sun, Ying Wang, Xuetao Zhang<br>
+   <u>Yunhao Li</u>, Jifa Sun, Ying Wang, Xuetao Zhang<br>
    2017 Chinese Automation Congress (CAC)
    
    
