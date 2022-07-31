@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/yunhaoli2020/yunhaoli2020.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently a PhD student in Computer Science at Westlake University (jointly with Zhejiang University), supervised by Prof. Peidong Liu.
+
+I earned my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China, and earned my Master's degree from Northwestern University at Evanston, IL
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
