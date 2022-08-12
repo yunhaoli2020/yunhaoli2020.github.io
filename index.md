@@ -28,11 +28,7 @@ I was an undergraduate student at School of Electronic and Information Engineeri
 
 ### Research
 
-My research projects during my undergraduate study in Xi'an focus on monocular/stereo 3D reconstruction, point cloud registration, and their applications on extraterrestrial robots. 
-
-The research projects I conducted during my visit at UCLA are related to haptics and eye gaze-based robot manipulation. 
-
-At Northwestern, I focus on structured light 3D imaging and its application on cultural heritage preservation.
+My research projects focus on monocular/stereo 3D reconstruction, structured light 3D imaging, point cloud registration, and their applications on extraterrestrial robots, VR/AR and cultural heritage preservation. Besides, I'm interested in  haptics and human-robot interaction. 
 
 
 ### Publications
