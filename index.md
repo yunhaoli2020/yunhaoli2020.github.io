@@ -31,9 +31,34 @@ I was an undergraduate student at School of Electronic and Information Engineeri
     <td width="75%">
       <p><b>Bachelor of Engineering</b></p>
       <p>Xi'an Jiaotong University</p>
+      <p>2015-2019</p>
     </td>
     <td width="25%">
       <p><b>2015-2019</b></p>    
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Master of Science</b></p>
+      <p>Northwestern University</p>
+      <p>2019-2021</p>
+    </td>
+    <td width="25%">
+      <p><b>2015-2019</b></p>    
+    </td>
+  </tr>
+</table>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <p><b>Visiting PhD student</b></p>
+      <p>Westlake University</p>
+      <p>2015-2019</p>
+    </td>
+    <td width="25%">
+      <p><b>2022-Now</b></p>    
     </td>
   </tr>
 </table>
