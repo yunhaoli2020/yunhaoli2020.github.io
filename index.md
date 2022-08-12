@@ -28,7 +28,7 @@ I was an undergraduate student at School of Electronic and Information Engineeri
 
 ### Research
 
-My research projects focus on monocular/stereo 3D reconstruction, structured light 3D imaging, point cloud registration, and their applications on extraterrestrial robots, VR/AR and cultural heritage preservation. Besides, I'm interested in  haptics and human-robot interaction. 
+My research projects focus on <b>monocular/stereo 3D reconstruction<\b>, <b>structured light 3D imaging<\b>, point cloud registration, and their applications on extraterrestrial robots, VR/AR and cultural heritage preservation. Besides, I'm interested in  haptics and human-robot interaction. 
 
 
 ### Publications
