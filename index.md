@@ -30,7 +30,7 @@ I was an undergraduate student at School of Electronic and Information Engineeri
   <tr>
     <td width="75%">
       <p><b>Bachelor of Engineering</b></p>
-      <p><b>Xi'an Jiaotong University</b></p>
+      <p>Xi'an Jiaotong University</p>
     </td>
     <td width="25%">
       <p><b>2015-2019</b></p>    
