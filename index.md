@@ -7,7 +7,7 @@
       <p><b>PhD Student</b></p>
       <p><b>Westlake University</b></p>
       <p><b>yunhaoli2020@u.northwestern.edu</b></p>
-      <p><b>No 600, Dunyu Road, Hangzhou, Zhejiang, China</b></p>
+      <p><b>No 600 Dunyu Road, Hangzhou, Zhejiang, China</b></p>
     </td>
     <td width="25%">
       <img src="/DSC_2436_min4.jpg" width="100%">     
