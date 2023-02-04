@@ -4,10 +4,10 @@
   <tr>
     <td width="75%">
       <h1>Yunhao Li</h1>
-      <p><b>Visiting PhD Student</b></p>
+      <p><b>PhD Student</b></p>
       <p><b>Westlake University</b></p>
       <p><b>yunhaoli2020@u.northwestern.edu</b></p>
-      <p><b>2233 Tech Dr, Evanston, IL, USA</b></p>
+      <p><b>No 600, Dunyu Road, Hangzhou, Zhejiang, China</b></p>
     </td>
     <td width="25%">
       <img src="/DSC_2436_min4.jpg" width="100%">     
@@ -16,7 +16,7 @@
 </table>
 
 
-I'm currently a visiting student in Computer Science at Westlake University (jointly with Zhejiang University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/).
+I'm currently a PhD student in Computer Science at Westlake University (jointly with Zhejiang University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/).
 
 I received my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China, and received my Master's degree from Northwestern University at Evanston, IL
 
