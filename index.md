@@ -10,7 +10,7 @@
       <p><b>No 600 Dunyu Road, Hangzhou, Zhejiang, China</b></p>
     </td>
     <td width="25%">
-      <img src="/4b641e604fc332dd436a976cbb39ec.jpg" width="100%">     
+      <img src="/WechatIMG3734_2.jpeg" width="100%">     
     </td>
   </tr>
 </table>
