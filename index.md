@@ -1,8 +1,8 @@
 ## Welcome to Yunhao Li's Homepage!
 
 <table border="0" style="border-color: transparent" frame=void>
-  <tr>
-    <td width="75%">
+  <tr frame=void>
+    <td width="75%" frame=void>
       <h1>Yunhao Li</h1>
       <p><b>PhD Student</b></p>
       <p><b>Westlake University</b></p>
