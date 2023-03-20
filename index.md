@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-<img src="/combinedLogos.png" width="100%">    
+
 I'm currently a PhD student in Computer Science at Westlake University (jointly with Zhejiang University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/).
 
 I received my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China, and received my Master's degree from Northwestern University at Evanston, IL
