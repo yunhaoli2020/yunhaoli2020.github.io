@@ -1,7 +1,6 @@
 ## Welcome to Yunhao Li's Homepage!
 
-<table id="tbl" border=1 frame=void>
-</table>
+<table border="0" style="border-color: transparent" frame=void>
   <tr>
     <td width="75%">
       <h1>Yunhao Li</h1>
