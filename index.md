@@ -9,7 +9,7 @@
       <p><b>yunhaoli2020@u.northwestern.edu</b></p>
       <p><b>No 600 Dunyu Road, Hangzhou, Zhejiang, China</b></p>
     </td>
-    <td width="25%">
+    <td width="25%" frame=void>
       <img src="/DSC_2436_min4.jpg" width="100%">     
     </td>
   </tr>
