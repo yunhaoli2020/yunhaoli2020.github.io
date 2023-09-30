@@ -4,7 +4,7 @@
   <tr border="0" frame=void>
     <td border="0" width="75%" frame=void>
       <h1>Yunhao Li</h1>
-      <p><b>PhD Student</b></p>
+      <p><b>PhD Candidate</b></p>
       <p><b>Westlake University</b></p>
       <p><b>yunhaoli2020@u.northwestern.edu</b></p>
       <p><b>No 600 Dunyu Road, Hangzhou, Zhejiang, China</b></p>
@@ -16,7 +16,7 @@
 </table>
 
 <img src="/combinedLogos.png" width="100%">    
-I'm currently a PhD student in Computer Science at Westlake University (jointly with Zhejiang University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/).
+I'm currently a PhD candidate in Computer Science at Westlake University (jointly with Zhejiang University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/).
 
 I received my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China, and received my Master's degree from Northwestern University at Evanston, IL
 
