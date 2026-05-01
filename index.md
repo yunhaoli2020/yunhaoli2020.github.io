@@ -63,21 +63,22 @@ My research projects focus on <b>monocular/stereo 3D reconstruction</b>, <b>stru
    Merlin Nau, Florian Schiffers, <u>Yunhao Li</u>, Bingjie Xu, ..., Oliver Cossairt<br>
    2021 IEEE International Conference on Image Processing (ICIP)
    [[PDF](https://arxiv.org/pdf/2102.00508.pdf)]
-7. A Low-Cost Solution for 3D Reconstruction of Large-Scale Specular Objects<br> 
+   
+8. A Low-Cost Solution for 3D Reconstruction of Large-Scale Specular Objects<br> 
    <u>Yunhao Li</u>, Chia-Kai Yeh, Bingjie Xu, ..., Oliver Cossairt<br>
    Computational Optical Sensing and Imaging (COSI). Optical Society of America, 2021
    [[PDF](https://3dim.northwestern.edu/YLi_COSI_2021.pdf)]
 
-8. A Method of Partially Overlapping Point Clouds Registration Based on Differential Evolution Algorithm<br> 
+9. A Method of Partially Overlapping Point Clouds Registration Based on Differential Evolution Algorithm<br> 
    Xuetao Zhang, Ben Yang, <u>Yunhao Li</u>, Xuewei Wang, Wanxu Zhang<br>
    PLOS ONE
    [[PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209227)]
    
-9. A Method of Solving the SFM Scale Factor Based on Monocular Camera and a Single Laser<br>
+10. A Method of Solving the SFM Scale Factor Based on Monocular Camera and a Single Laser<br>
    <u>Yunhao Li</u>, Jifa Sun, Ying Wang, Xuetao Zhang<br>
    2017 Chinese Automation Congress (CAC)
    
-10. Skinscan: 3D Dermatologic Diagnosis and Documentation with Commodity Devices<br>
+11. Skinscan: 3D Dermatologic Diagnosis and Documentation with Commodity Devices<br>
    Merlin Nau, Florian Schiffers, <u>Yunhao Li</u>, Bingjie Xu, ..., Oliver Cossairt<br>
    2021 55th Asilomar Conference on Signals, Systems, and Computers
    [[PDF](https://ieeexplore.ieee.org/abstract/document/9723389)]
