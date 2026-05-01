@@ -47,11 +47,11 @@ My research projects focus on <b>monocular/stereo 3D reconstruction</b>, <b>stru
    <u>Yunhao Li</u>, Jing Wu, Lingzhe Zhao, Peidong Liu<br>
    2024 International Conference on Robotics and Automation (ICRA)
 
-3. SCIGaussian-D: Dynamic Scene Reconstruction from a Single Snapshot Compressive Image
+3. SCIGaussian-D: Dynamic Scene Reconstruction from a Single Snapshot Compressive Image<br>
    <u>Yunhao Li</u>, Yuze Yang, Yanan Hu, ..., Xin Yuan, Peidong Liu<br>
    2026 International Conference on 3D Vision (3DV)
 
-4. SCI-Gaussian: Optimizing 3D Gaussian Radiance Field from a Snapshot Compressive Image
+4. SCI-Gaussian: Optimizing 3D Gaussian Radiance Field from a Snapshot Compressive Image<br>
    Xiaoyue Li, <u>Yunhao Li</u>, Xiaodong Wang, ..., Mark Butala, Gaoang Wang<br>
    2025 International Conference on Acoustics, Speech and Signal Processing (ICASSP)
    
