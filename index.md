@@ -52,11 +52,11 @@ My research projects focus on <b>monocular/stereo 3D reconstruction</b>, <b>stru
    2026 International Conference on 3D Vision (3DV)
 
 4. SCI-Gaussian: Optimizing 3D Gaussian Radiance Field from a Snapshot Compressive Image<br>
-   Xiaoyue Li<sup>*</sup>, <u>Yunhao Li</u><sup>*</sup>, Xiaodong Wang, ..., Mark Butala, Gaoang Wang<br>
+   Xiaoyue Li\*, <u>Yunhao Li</u>\*, Xiaodong Wang, ..., Mark Butala, Gaoang Wang<br>
    2025 International Conference on Acoustics, Speech and Signal Processing (ICASSP)
    
 5. TI-3DGS: 3D Thermal Reconstruction via Thermal Imaging-guided 3D Gaussian Splatting<br>
-   Yong Tang<sup>*</sup>, <u>Yunhao Li</u><sup>*</sup>, Xiaodong Wang, ..., Xiaocheng Feng, Xin Yuan<br>
+   Yong Tang\*, <u>Yunhao Li</u>\*, Xiaodong Wang, ..., Xiaocheng Feng, Xin Yuan<br>
    Accepted by 2026 International Conference on Robotics and Automation (ICRA)
 
 6. SkinScan: Low-Cost 3D-Scanning for Dermatologic Diagnosis and Documentation<br> 
