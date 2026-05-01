@@ -57,7 +57,7 @@ My research projects focus on <b>monocular/stereo 3D reconstruction</b>, <b>stru
    
 5. TI-3DGS: 3D Thermal Reconstruction via Thermal Imaging-guided 3D Gaussian Splatting<br>
    Yong Tang, <u>Yunhao Li</u>, Xiaodong Wang, ..., Xiaocheng Feng, Xin Yuan<br>
-   2026 International Conference on Robotics and Automation (ICRA)
+   Accepted by 2026 International Conference on Robotics and Automation (ICRA)
 
 6. SkinScan: Low-Cost 3D-Scanning for Dermatologic Diagnosis and Documentation<br> 
    Merlin Nau, Florian Schiffers, <u>Yunhao Li</u>, Bingjie Xu, ..., Oliver Cossairt<br>
