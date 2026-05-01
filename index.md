@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-<img src="/combinedLogos.png" width="100%">    
+<img src="/combinedLogos3.png" width="100%">    
 I'm currently a PhD candidate in Computer Science at Zhejiang University (jointly with Westlake University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/) and [Prof. Xin Yuan](https://sites.google.com/site/eiexyuan/home).
 
 I received my Master's degree from Northwestern University at Evanston, IL, and my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China.
