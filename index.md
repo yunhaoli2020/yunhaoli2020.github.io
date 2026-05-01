@@ -41,7 +41,7 @@ My research projects focus on <b>monocular/stereo 3D reconstruction</b>, <b>stru
 ### Publications
 1. SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image<br>
    <u>Yunhao Li</u>, Xiaodong Wang, Ping Wang, Xin Yuan, Peidong Liu<br>
-   Computer Vision and Pattern Recognition (CVPR) 2024 (Highlight Paper)
+   Computer Vision and Pattern Recognition (CVPR) 2024 <b>(Highlight Paper)</b>
 
 2. DerainNeRF: 3D Scene Estimation with Adhesive Waterdrop Removal<br>
    <u>Yunhao Li</u>, Jing Wu, Lingzhe Zhao, Peidong Liu<br>
