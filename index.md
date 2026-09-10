@@ -4,10 +4,10 @@
   <tr border="0" frame=void>
     <td border="0" width="75%" frame=void>
       <h1>Yunhao Li</h1>
-      <p><b>PhD Candidate</b></p>
-      <p><b>Zhejiang University</b></p>
-      <p><b>yunhaoli@zju.edu.cn, liyunhao@westlake.edu.cn</b></p>
-      <p><b>No 866 Yuhangtang Road, Hangzhou, Zhejiang, China</b></p>
+      <p><b>Postdoc Research Fellow</b></p>
+      <p><b>The University of Hong Kong</b></p>
+      <p><b>yunhaol@hku.hk, yunhaoli@zju.edu.cn</b></p>
+      <p><b>Chow Yei Ching Building, The University of Hong Kong, HONG KONG SAR</b></p>
     </td>
     <td width="25%" frame=void>
       <img src="/DSC_2436_min4.jpg" width="100%">     
@@ -16,7 +16,7 @@
 </table>
 
 <img src="/combinedLogos3.png" width="100%">    
-I'm currently a PhD candidate in Computer Science at Zhejiang University (jointly with Westlake University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/) and [Prof. Xin Yuan](https://sites.google.com/site/eiexyuan/home).
+I'm currently Postdoc Research Fellow in Electrical and Computer Engineering at the University of Hong Kong, supervised by [Prof. Evan Peng](https://web.ece.hku.hk/~evanpeng/). I received my PhD from Zhejiang University (jointly with Westlake University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/) and [Prof. Xin Yuan](https://sites.google.com/site/eiexyuan/home).
 
 I received my Master's degree from Northwestern University at Evanston, IL, and my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China.
 
