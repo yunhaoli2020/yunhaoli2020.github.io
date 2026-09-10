@@ -16,7 +16,7 @@
 </table>
 
 <img src="/combinedLogos5.png" width="100%">    
-I'm currently Postdoc Research Fellow in Electrical and Computer Engineering at the University of Hong Kong, supervised by [Prof. Evan Peng](https://web.ece.hku.hk/~evanpeng/). I received my PhD from Zhejiang University (jointly with Westlake University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/) and [Prof. Xin Yuan](https://sites.google.com/site/eiexyuan/home).
+I'm currently Postdoc Research Fellow in Electrical and Computer Engineering at the University of Hong Kong, supervised by [Prof. Evan Peng](https://web.ece.hku.hk/~evanpeng/). I received my PhD from Zhejiang University (jointly with Westlake University), supervised by [Prof. Peidong Liu](https://ethliup.github.io/), [Prof. Xin Yuan](https://sites.google.com/site/eiexyuan/home) and [Prof. Wei Chen](https://person.zju.edu.cn/en/wei_chen/915382.html).
 
 I received my Master's degree from Northwestern University at Evanston, IL, and my Bachelor's degree from Xi'an Jiaotong University at Xi'an, China.
 
@@ -85,9 +85,9 @@ My research projects focus on <b>monocular/stereo 3D reconstruction</b>, <b>stru
    [[PDF](https://ieeexplore.ieee.org/abstract/document/9723389)]
 
 
-[CV](/CV-YunhaoLi.pdf)
+[CV](/CV-YunhaoLi_7.pdf)
 
-[中文简历](/CV-YunhaoLi_CHN.pdf)
+[中文简历](/CV-YunhaoLi_CHN_7.pdf)
 
 
 
