@@ -28,7 +28,8 @@ During my master's study in Northwestern, I was a member of Northwestern Computa
 
 ### Education
 <ul>
-  <li>PhD Candidate: Zhejiang University (jointly with Westlake University)<br> 2022-Now</li>
+  <li>Postdoc Research Fellow: The University of Hong Kong<br> 2026-Now</li>
+  <li>PhD: Zhejiang University (jointly with Westlake University)<br> 2022-2026</li>
   <li>Master of Science: Northwestern University<br> 2019-2021</li>
   <li>Bachelor of Engineering: Xi'an Jiaotong University<br> 2015-2019</li>
 </ul>
